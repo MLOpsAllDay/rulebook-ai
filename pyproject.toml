@@ -27,7 +27,6 @@ dependencies = [
     
     # Google Generative AI
     "google-generativeai",
-    "grpcio==1.71.0",  # For Google GenAI preventing WARNING
     "PyYAML>=6.0",
 ]
 
